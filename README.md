@@ -12,8 +12,6 @@ import (
 	"strings"
 	"time"
 
-	"gitlab.snapp.ir/drx/sanjeh/internal/http/handlers"
-
 	"github.com/google/go-querystring/query"
 )
 
